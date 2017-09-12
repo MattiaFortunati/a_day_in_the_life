@@ -1,0 +1,20 @@
+{
+  "name": "a_day_in_the_life",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-closure-compiler":"latest",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-compress": "^1.3.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "latest",
+    "grunt-contrib-htmlmin": "^2.0.0",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-less": "latest",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "latest",
+    "grunt-processhtml": "^0.4.0",
+    "jshint-stylish": "latest"
+  }
+}
