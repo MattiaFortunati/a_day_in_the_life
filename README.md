@@ -39,7 +39,7 @@ Released under the MIT license.
 See LICENSE file for more information.
 
 ### LIVE DEMO
-You can play the final version on the js13kgames website, here: 
+You can play the final version on the js13kgames website, here:     
 http://js13kgames.com/games/a-day-in-the-life/index.html
 
 ### FACEBOOK INSTANT GAMES PORTING
