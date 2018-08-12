@@ -39,12 +39,12 @@ Released under the MIT license.
 See LICENSE file for more information.
 
 ### LIVE DEMO
-You can play the final version on the js13kgames website, here:
+You can play the final version on the js13kgames website, here: 
 http://js13kgames.com/games/a-day-in-the-life/index.html
 
 ### FACEBOOK INSTANT GAMES PORTING
-Also, recentely I've also ported A Day In The Life to the new Facebook Instant Games platform.
-You can play it directly in your Facebook Messenger app using this link:
+Also, recentely I've also ported A Day In The Life to the new Facebook Instant Games platform.  
+You can play it directly in your Facebook Messenger app using this link:  
 http://m.me/377390292667907?game=216916535757588
 
 
